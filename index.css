@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Marck+Script&family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Poppins:wght@700&display=swap');
 
 *{
   padding: 0;
@@ -39,5 +39,26 @@
 
 }
 .del{
-  background-color: orangered;
+  /* background-color: red; */
+}
+.neww.newproduct{
+  background-color: whitesmoke;
+  border-radius: 0.31rem;
+  color: black;
+  font-size: 15px;
+  letter-spacing: 0.015rem;
+  line-height: 1.563rem;
+  padding: 0.125rem;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1rem;
+  top: 1.88rem;
+  z-index: 99;
+}
+.footer{
+  background-color: black;
+}
+.footer i{
+  color: white;
+  font-size: 28px;
 }
