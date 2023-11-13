@@ -5,9 +5,6 @@
   margin: 0;
   box-sizing: border-box;
 }
-body{
-  height: 600vh;
-}
 
 
 .hero{
@@ -26,7 +23,7 @@ body{
   background-color: black;
 }
 .hero3{
-  height: 90vh;
+  
   background-color: white !important;
   box-shadow: 10px 5px 20px red;
   margin-top: 20px;
@@ -35,4 +32,12 @@ body{
 .new{
   height: 70vh;
   background-color: gold;
+}
+.product{
+
+  background-color: whitesmoke;
+
+}
+.del{
+  background-color: orangered;
 }
